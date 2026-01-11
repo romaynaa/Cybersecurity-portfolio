@@ -1,7 +1,7 @@
 # CYBER SECURITY PORTFOLIO
 ## Roma Yana Pasaribu
 Hi! My name is Roma Yana Pasaribu, and I am a cybersecurity enthusiast to learning and applying best practice to protect data and systems. Currently, I am a bachelor's student majoring in Information Technology, with a focus on penetration testing and threat analysis.
-####Current Role: Student
+#### - Current Role: Student
 
 ## Executive Summary
 This activity was conducted to identify security vulnerabilities within internal system using an authorized TrayHackMe lab environment. The assessment focused on the SMB (Server Message Block) service running on a window-based system.
