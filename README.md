@@ -1,6 +1,5 @@
 # CYBER SECURITY PORTFOLIO
-# (Authorized Lab: TryHackMe)
-# Roma Yana Pasaribu
+## Roma Yana Pasaribu
 Hi! My name is Roma Yana Pasaribu, and I am a cybersecurity enthusiast to learning and applying best practice to protect data and systems. Currently, I am a bachelor's student majoring in Information Technology, with a focus on penetration testing and threat analysis.
 Current Role: Student
 
@@ -10,8 +9,8 @@ This activity was conducted to identify security vulnerabilities within internal
 The result of the assessment revealed that the target system was still using SMBv1 and was vulnerable to a Remote Code Execution (RCE) flaw known as MS17-010 (EternalBlue). This vulnerability allows an attacker to execute arbitrary commands remotely without authentication and may lead to full system.
 
 ## Testing Scope & Environment
-•	Platform: TryHackMe
-•	Assessment Type: Internal Penetration Testing
+- Platform: TryHackMe
+- Assessment Type: Internal Penetration Testing
 •	Approach: Black Box
 •	Target System: Windows-based host
 •	Critical Service: SMB (Server Message Block)
